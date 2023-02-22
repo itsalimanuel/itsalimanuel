@@ -3,5 +3,6 @@
 - 🌱 I’m currently working at cryptocurrency Company ...
 - 📫 itskhaloufali@gmail.com
 - 🕸️ https://www.alikhalouf.me/
+- 🦸 support me : https://ko-fi.com/itsalimanuel
 - 🔡 contributing :
   -  ➡️  [#11510](https://github.com/element-plus/element-plus/pull/11510)
