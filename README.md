@@ -5,4 +5,4 @@
 - 🕸️ https://www.alikhalouf.me/
 - 🦸 support me : https://ko-fi.com/itsalimanuel
 - 🔡 contributing :
-  -  ➡️  [#11510](https://github.com/element-plus/element-plus/pull/11510)
+  -  ➡️  [@elementPlus](https://github.com/element-plus/element-plus/)
