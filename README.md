@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali | Али, the creative mind behind [pigeon](https://github.com/itsalimanuel/pigeon) 🐦 & [Renix](https://github.com/itsalimanuel/renix) 🎇, and the creator of [Namask](https://namask.xyz) 🌐.
+ 👋 Hi, I’m Ali | Али, the creative mind behind [pigeon](https://github.com/itsalimanuel/pigeon) 🐦 & [Renix](https://github.com/itsalimanuel/renix) 🎇, and the creator of [Namask](https://namask.xyz) 🌐.
 - 👀 I’m passionate about technologies like [element-plus](https://element-plus.org/en-US/), [bun](https://bun.sh/), [nestjs](https://nestjs.com/), [vitejs](https://vitejs.dev/), [nuxt](https://github.com/nuxt/nuxt), and [vue](https://vuejs.org).
 - 🌱 Currently, I'm immersed in the world of cryptocurrencies at a dynamic company.
 - 💼 As a front-end developer, I contribute to projects like [@elementPlus](https://github.com/element-plus/element-plus/).
@@ -13,6 +13,13 @@
 
 **Current Endeavors:**
 - [element-plus](https://github.com/element-plus/element-plus/), contributing to its growth and improvement.
+
+**Support me:**
+
+![https://ko-fi.com/itsalimanuel](https://github.com/itsalimanuel/itsalimanuel/assets/44509661/5ed9fde7-90d2-4f11-abe3-95113e5ccc82)
+https://ko-fi.com/itsalimanuel
+
+
 
 **Let's Connect:**
  - [LinkedIn](https://www.linkedin.com/in/khaloufali/)
