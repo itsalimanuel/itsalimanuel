@@ -14,13 +14,6 @@
 **Current Endeavors:**
 - [element-plus](https://github.com/element-plus/element-plus/), contributing to its growth and improvement.
 
-**Support me:**
-
-![https://ko-fi.com/itsalimanuel](https://github.com/itsalimanuel/itsalimanuel/assets/44509661/5ed9fde7-90d2-4f11-abe3-95113e5ccc82)
-https://ko-fi.com/itsalimanuel
-
-
-
 **Let's Connect:**
  - [LinkedIn](https://www.linkedin.com/in/khaloufali/)
  - [X](https://twitter.com/itsAliKhalouf)
