@@ -12,7 +12,7 @@
 - [Renix](https://github.com/itsalimanuel/renix): Another one of my endeavors, exploring new possibilities.
 - [Namask](https://namask.xyz): A project that brings [Namask-Vue](https://github.com/itsalimanuel/namask-vue) to life.
 - [ton-ui-vue](https://github.com/itsalimanuel/ton-ui-vue): A UI library tailored for Vue.js.
-- [withton](https://github.com/itsalimanuel/withton): A robust solution for Ton blockchain applications.
+- [withton](https://github.com/withton): A robust solution for Ton blockchain applications.
 - [vitoast](https://github.com/itsalimanuel/vitoast): A lightweight and customizable toast notification library for Vue.js applications.
 
 **Let's Connect:**
