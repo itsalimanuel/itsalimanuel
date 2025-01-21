@@ -24,5 +24,5 @@ Specializing in **TypeScript**, **JavaScript**, and **Go**, I work with cutting-
 📧 **Email:** itskhaloufali@gmail.com  
 💼 **Find Me On:**  
 - [LinkedIn](https://www.linkedin.com/in/khaloufali/)  
-- [X (Twitter)](https://x.com/0xitsali)  
+- [X (Twitter)](https://x.com/itsalikhalouf)  
 - [Telegram](https://t.me/itsalikhalouf)  
