@@ -15,7 +15,7 @@ Specializing in **TypeScript**, **JavaScript**, and **Go**, I work with cutting-
 - [React](https://react.dev/)  
 - [NestJS](https://nestjs.com/)  
 
-🌱 Currently exploring **cryptocurrencies** and contributing to innovative blockchain solutions.  
+🌱 Currently exploring **cryptocurrencies** and **AI technologies**, contributing to innovative blockchain and artificial intelligence solutions.  
 
 ---
 
