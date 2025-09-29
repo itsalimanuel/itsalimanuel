@@ -8,9 +8,7 @@
 
 Exploring **cryptocurrencies** and **AI technologies**, contributing to innovative **blockchain** and **artificial intelligence** solutions.  
 
-🌐 **Portfolio**: [a-li.dev](https://a-li.dev)  
+🌐 **Portfolio**: [itsali.link](https://itsali.link)  
 
 ---
 
-## Fund My Open-Source Work  
-🚀 **itsalikhalouf.ton**
