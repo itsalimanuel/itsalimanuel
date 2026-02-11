@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ali | Али  
-**Lead Frontend Developer at DroxLabs**  
+**Building [Sigals-GenAI](https://signals-genai.com)**  
 
  🌟 Creator of [ton-ui-vue](https://github.com/itsalimanuel/ton-ui-vue) • [withton](https://github.com/withton) • [next-devtools](https://github.com/itsalimanuel/next-devtools) • [vitoast](https://github.com/itsalimanuel/vitoast).  
 
